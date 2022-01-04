@@ -137,17 +137,6 @@
 0.0.0.0 adrta.com
 0.0.0.0 dsp-adcreative.mobshark.net
 0.0.0.0 cdn.taboola.com
-# random lagi
-0.0.0.0 data.flurry.com
-0.0.0.0 jsc.adskeeper.com
-0.0.0.0 c.adskeeper.com
-0.0.0.0 s-img.adskeeper.com
-0.0.0.0 cdn.adskeeper.co.uk
-0.0.0.0 servicer.adskeeper.com
-0.0.0.0 comasoiling.casa
-0.0.0.0 isletachoisya.cam
-0.0.0.0 spankerpuked.com
-0.0.0.0 adsmetadata.startappservice.com
 # block iklan zippyshare
 0.0.0.0 mileagechronic.com
 0.0.0.0 addresseepaper.com
