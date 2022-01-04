@@ -24,42 +24,6 @@
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 t.dtscout.com
 0.0.0.0 1.bp.blogspot.com
-# google host#
-0.0.0.0 www.google-analytics.com
-0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 doubleclick.net
-0.0.0.0 www.doubleclick.net
-0.0.0.0 static.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 www.googleadservices.com
-0.0.0.0 74.125.24.94
-0.0.0.0 adx.g.doubleclick.net
-0.0.0.0 ade.googlesyndication.com
-0.0.0.0 encrypted-tbn3.gstatic.com
-0.0.0.0 encrypted-tbn2.gstatic.com
-0.0.0.0 encrypted-tbn1.gstatic.com
-0.0.0.0 encrypted-tbn0.gstatic.com
-0.0.0.0 142.251.10.155
-0.0.0.0 64.233.185.94
-0.0.0.0 142.251.12.157
-0.0.0.0 142.250.4.155
-0.0.0.0 142.251.12.155
-0.0.0.0 142.251.12.154
-0.0.0.0 googleads.g.doubleclick.net:443
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net:53
-0.0.0.0 172.217.194.154
-0.0.0.0 csi.gstatic.com
-0.0.0.0 pagead2.googleadservices.com
-0.0.0.0 pagead2.googleadservices.com:443
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 a.doubleclick.net
-0.0.0.0 csi.gstatic.com
-0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 adservice.google.com
 # block iklan zippyshare
 0.0.0.0 mileagechronic.com
 0.0.0.0 addresseepaper.com
@@ -92,7 +56,6 @@
 0.0.0.0 adx-dra.op.hicloud.com
 0.0.0.0 s.oksp.in
 0.0.0.0 v.starhalo.mobi
-
 # racaty
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 propu.sh
