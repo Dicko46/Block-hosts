@@ -60,30 +60,6 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 adservice.google.com
-# random iklan
-0.0.0.0 x.bidswitch.net
-0.0.0.0 token.rubiconproject.com
-0.0.0.0 js-sec.indexww.com
-0.0.0.0 a4564.casalemedia.com
-0.0.0.0 app.adjust.com
-0.0.0.0 cdn-f.adsmoloco.com
-0.0.0.0 cdn.doubleverify.com
-0.0.0.0 sync.teads.tv
-0.0.0.0 23.193.53.117
-0.0.0.0 ms.applovin.com
-0.0.0.0 applovin.com
-0.0.0.0 104.93.120.145:443
-0.0.0.0 a.applovin.com
-0.0.0.0 rt.applovin.com
-0.0.0.0 partners.tremorhub.com
-0.0.0.0 ssum-sec.casalemedia.com
-0.0.0.0 api.flat-ads.com
-0.0.0.0 mpx.mopub.com
-0.0.0.0 cb.mopub.com
-0.0.0.0 ads.mopub.com
-0.0.0.0 adrta.com
-0.0.0.0 dsp-adcreative.mobshark.net
-0.0.0.0 cdn.taboola.com
 # block iklan zippyshare
 0.0.0.0 mileagechronic.com
 0.0.0.0 addresseepaper.com
