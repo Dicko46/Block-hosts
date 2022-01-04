@@ -1,29 +1,6 @@
 ## komikindo ##
 0.0.0.0 ptawhood.net
 0.0.0.0 iyfnz.com
-## samehadaku ##
-0.0.0.0 playerseo.club
-0.0.0.0 p.adsymptotic.com
-0.0.0.0 sstatic1.histats.com
-0.0.0.0 s4.histats.com
-0.0.0.0 s10.histats.com
-0.0.0.0 172.255.6.153
-0.0.0.0 rspctdown.com
-0.0.0.0 bepiletussar.casa
-0.0.0.0 newtontanrec.casa
-0.0.0.0 mersionbronze.cam
-0.0.0.0 enginsquawks.cam
-0.0.0.0 luxury138.link
-0.0.0.0 buncoswosh.com
-0.0.0.0 repsrowedpay.com
-0.0.0.0 monasawaw.com:443
-0.0.0.0 monasawaw.com
-0.0.0.0 pixel.onaudience.com
-0.0.0.0 data-beacons.s-onetag.com
-0.0.0.0 tags.bluekai.com
-0.0.0.0 bcp.crwdcntrl.net
-0.0.0.0 t.dtscout.com
-0.0.0.0 1.bp.blogspot.com
 # block iklan zippyshare
 0.0.0.0 mileagechronic.com
 0.0.0.0 addresseepaper.com
