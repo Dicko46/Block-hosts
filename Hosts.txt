@@ -70,22 +70,6 @@
 # block komikcast
 0.0.0.0 wovazaix.com
 0.0.0.0 static.cdnativepush.com
-# pahe download
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 cfg.flurry.com
-0.0.0.0 flurry.com
-0.0.0.0 compass.adop.cc
-0.0.0.0 adop.cc
-0.0.0.0 api.adinplay.com
-0.0.0.0 tg1.playstream.media
-0.0.0.0 compass.adop.cc
-0.0.0.0 acdcdn.com
-0.0.0.0 www.hostingcloud.racing
-0.0.0.0 www.onclickalgo.com
-0.0.0.0 ads2.uptobox.com
-0.0.0.0 i.wmgtr.com
-0.0.0.0 yfetyg.com
-0.0.0.0 img.cdn.house
 # block iklan bacakomik
 0.0.0.0 cdn.statically.io
 0.0.0.0 toglooman.com
@@ -102,12 +86,3 @@
 0.0.0.0 agacelebir.com
 0.0.0.0 thaudray.com
 0.0.0.0 usipucxjdat.top
-# ouo
-0.0.0.0 itineraryupper.com
-0.0.0.0 video.your-notice.com
-0.0.0.0 ecdn.analysis.fi
-0.0.0.0 ecdn.firstimpression.io
-0.0.0.0 setpadchat.com
-0.0.0.0 a.vdo.ai
-0.0.0.0 xmllover.com
-0.0.0.0 regulationprivilegescan.top
