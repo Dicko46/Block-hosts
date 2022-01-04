@@ -161,18 +161,6 @@
 0.0.0.0 agacelebir.com
 0.0.0.0 thaudray.com
 0.0.0.0 usipucxjdat.top
-# block revdl
-0.0.0.0 www.displayvertising.com
-0.0.0.0 gadsabs.com
-# block bagas31
-0.0.0.0 breedtagask.com
-0.0.0.0 netfree.id
-0.0.0.0 watzap.id
-0.0.0.0 analytics.tiktok.com
-0.0.0.0 distillery.wistia.com
-0.0.0.0 client.crisp.chat
-0.0.0.0 client.relay.crisp.chat
-0.0.0.0 rajalisensi.com
 #block ouo
 0.0.0.0 itineraryupper.com
 0.0.0.0 video.your-notice.com
